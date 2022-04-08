@@ -1,0 +1,17 @@
+E:\Project\Study\MVC\MVVMViewModel\obj\Debug\net6.0\MVVMViewModel.csproj.AssemblyReference.cache
+E:\Project\Study\MVC\MVVMViewModel\obj\Debug\net6.0\MVVMViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Study\MVC\MVVMViewModel\obj\Debug\net6.0\MVVMViewModel.AssemblyInfoInputs.cache
+E:\Project\Study\MVC\MVVMViewModel\obj\Debug\net6.0\MVVMViewModel.AssemblyInfo.cs
+E:\Project\Study\MVC\MVVMViewModel\obj\Debug\net6.0\MVVMViewModel.csproj.CoreCompileInputs.cache
+E:\Project\Study\MVC\MVVMViewModel\bin\Debug\net6.0\MVVMViewModel.deps.json
+E:\Project\Study\MVC\MVVMViewModel\bin\Debug\net6.0\MVVMViewModel.dll
+E:\Project\Study\MVC\MVVMViewModel\bin\Debug\net6.0\ref\MVVMViewModel.dll
+E:\Project\Study\MVC\MVVMViewModel\bin\Debug\net6.0\MVVMViewModel.pdb
+E:\Project\Study\MVC\MVVMViewModel\bin\Debug\net6.0\MVVMData.dll
+E:\Project\Study\MVC\MVVMViewModel\bin\Debug\net6.0\MVVMEntity.dll
+E:\Project\Study\MVC\MVVMViewModel\bin\Debug\net6.0\MVVMData.pdb
+E:\Project\Study\MVC\MVVMViewModel\bin\Debug\net6.0\MVVMEntity.pdb
+E:\Project\Study\MVC\MVVMViewModel\obj\Debug\net6.0\MVVMViewModel.csproj.CopyComplete
+E:\Project\Study\MVC\MVVMViewModel\obj\Debug\net6.0\MVVMViewModel.dll
+E:\Project\Study\MVC\MVVMViewModel\obj\Debug\net6.0\ref\MVVMViewModel.dll
+E:\Project\Study\MVC\MVVMViewModel\obj\Debug\net6.0\MVVMViewModel.pdb

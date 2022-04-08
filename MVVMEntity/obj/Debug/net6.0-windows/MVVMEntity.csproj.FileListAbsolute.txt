@@ -1,0 +1,5 @@
+E:\Project\Study\MVC\MVVMEntity\obj\Debug\net6.0-windows\MVVMEntity.csproj.AssemblyReference.cache
+E:\Project\Study\MVC\MVVMEntity\obj\Debug\net6.0-windows\MVVMEntity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Study\MVC\MVVMEntity\obj\Debug\net6.0-windows\MVVMEntity.AssemblyInfoInputs.cache
+E:\Project\Study\MVC\MVVMEntity\obj\Debug\net6.0-windows\MVVMEntity.AssemblyInfo.cs
+E:\Project\Study\MVC\MVVMEntity\obj\Debug\net6.0-windows\MVVMEntity.csproj.CoreCompileInputs.cache

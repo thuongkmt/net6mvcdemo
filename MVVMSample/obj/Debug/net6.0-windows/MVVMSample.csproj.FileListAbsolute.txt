@@ -1,0 +1,8 @@
+E:\Project\Study\MVC\MVVMSample\obj\Debug\net6.0-windows\MVVMSample.csproj.AssemblyReference.cache
+E:\Project\Study\MVC\MVVMSample\obj\Debug\net6.0-windows\MVVMSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Study\MVC\MVVMSample\obj\Debug\net6.0-windows\MVVMSample.AssemblyInfoInputs.cache
+E:\Project\Study\MVC\MVVMSample\obj\Debug\net6.0-windows\MVVMSample.AssemblyInfo.cs
+E:\Project\Study\MVC\MVVMSample\obj\Debug\net6.0-windows\MVVMSample.csproj.CoreCompileInputs.cache
+E:\Project\Study\MVC\MVVMSample\obj\Debug\net6.0-windows\MVVMSample.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\Study\MVC\MVVMSample\obj\Debug\net6.0-windows\MVVMSample.RazorAssemblyInfo.cache
+E:\Project\Study\MVC\MVVMSample\obj\Debug\net6.0-windows\MVVMSample.RazorAssemblyInfo.cs

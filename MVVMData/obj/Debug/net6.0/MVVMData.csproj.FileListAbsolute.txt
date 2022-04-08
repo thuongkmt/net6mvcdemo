@@ -1,0 +1,17 @@
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\MVVMData.csproj.AssemblyReference.cache
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\MVVMData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\MVVMData.AssemblyInfoInputs.cache
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\MVVMData.AssemblyInfo.cs
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\MVVMData.csproj.CoreCompileInputs.cache
+E:\Project\Study\MVC\MVVMData\bin\Debug\net6.0\MVVMData.deps.json
+E:\Project\Study\MVC\MVVMData\bin\Debug\net6.0\MVVMData.dll
+E:\Project\Study\MVC\MVVMData\bin\Debug\net6.0\ref\MVVMData.dll
+E:\Project\Study\MVC\MVVMData\bin\Debug\net6.0\MVVMData.pdb
+E:\Project\Study\MVC\MVVMData\bin\Debug\net6.0\MVVMEntity.dll
+E:\Project\Study\MVC\MVVMData\bin\Debug\net6.0\MVVMEntity.pdb
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\MVVMData.csproj.CopyComplete
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\MVVMData.dll
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\ref\MVVMData.dll
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\MVVMData.pdb
+E:\Project\Study\MVC\MVVMData\bin\Debug\net6.0\MVVMData.runtimeconfig.json
+E:\Project\Study\MVC\MVVMData\obj\Debug\net6.0\MVVMData.genruntimeconfig.cache
